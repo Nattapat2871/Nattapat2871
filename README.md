@@ -45,9 +45,38 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
 
 ## My GitHub Stats
 
-<a href="https://github.com/nattapat2871" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/nattapat2871"><img src="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="nattapat2871's GitHub stats" /></a>
-
+<a href="https://github.com/nattapat2871" align="left">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=default"
+    />
+    <img
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=default"
+    />
+  </picture>
+</a>
+<a href="http://www.github.com/nattapat2871">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=default"
+    />
+    <img
+      alt="nattapat2871's GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=default"
+    />
+  </picture>
+</a>
 
 
 
