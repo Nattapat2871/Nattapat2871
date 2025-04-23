@@ -9,7 +9,6 @@ I've been really into computers ever since I was young. I went from being a kid 
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * 🖥️  See my portfolio at [Portfolio](http://nattapat2871.online/portfolio)
-* ✉️  You can contact me at [nattapat2871@gmail.com](mailto:nattapat2871@gmail.com)
 * 🧠  I'm learning a new next.js and C++
 * ⚡  kuru kuru kururin
 
