@@ -49,15 +49,15 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=github_dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=default"
     />
     <img
       alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&hide_border=true&locale=en&custom_title=Top%20Languages&theme=default"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=default"
     />
   </picture>
 </a>
@@ -65,15 +65,15 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=github_dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=default"
     />
     <img
       alt="nattapat2871's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&hide_border=true&theme=default"
+      src="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=default"
     />
   </picture>
 </a>
