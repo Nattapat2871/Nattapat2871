@@ -13,6 +13,7 @@ I've been really into computers ever since I was young. I went from being a kid 
 
 <a href="https://www.github.com/nattapat2871" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nattapat2871.nattapat2871&left_text=👁️%20Visitor&left_color=555555&right_color=007ACC&left_text_color=white&right_text_color=white)
 
 ## Skills
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
