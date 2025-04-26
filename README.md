@@ -10,6 +10,7 @@ I've been really into computers ever since I was young. I went from being a kid 
 * 🌍  I'm based in Chiang Mai, Thailand
 * 🧠  I'm learning a new next.js and C++
 * ⚡  kuru kuru kururin
+* 📲  contact me here [discord](https://discord.gg/RbyUEseDYP)
 
 <a href="https://www.github.com/nattapat2871" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
