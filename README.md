@@ -99,6 +99,9 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/nattapat2871"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nattapat2871)
+
 <a href="https://tipme.in.th/nattapat2871">Tipme</a>
 
 </ul>
