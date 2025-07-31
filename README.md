@@ -8,7 +8,7 @@ Junior student developer
 I've been really into computers ever since I was young. I went from being a kid hooked on games to wanting to actually develop things – like apps, games, and more.
 
 * 🌍  I'm based in Chiang Mai, Thailand
-* 🧠  I'm learning a new next.js and C++
+* 🧠  I'm learning a new next.js C++ Java And MySQL
 * ⚡  kuru kuru kururin
 * 📲  contact me here [discord](https://discord.gg/RbyUEseDYP)
 
