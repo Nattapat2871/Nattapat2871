@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
 
 
 ## Socials
-![my status](https://api.ame.nattapat2871.online/v1/user/1007237437627572275.svg)
+![my status](https://api.ame.nattapat2871.me/v1/user/1007237437627572275.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nattapat2871)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattapat2871@gmail.com)
