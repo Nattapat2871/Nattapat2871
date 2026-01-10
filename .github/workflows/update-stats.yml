@@ -1,38 +1,58 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # รันทุกเที่ยงคืน (เวลา Server)
-  workflow_dispatch: # ปุ่มกดรันเองได้
+    - cron: '0 0 * * *' # รันทุกเที่ยงคืน
+  workflow_dispatch: # ปุ่มกดรันเอง
 
 jobs:
-  update-readme:
+  generate-images:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Generate Stats Image
+
+      # 1. สร้าง Stats (โหมดสว่าง - Default)
+      - name: Generate Stats (Light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: stats
-          # ตรงนี้ใส่ options เหมือนที่เคยใส่ใน URL ได้เลย
-          options: 'username=nattapat2871&show_icons=true&theme=radical' 
-          path: 'generated/stats.svg' # ไฟล์จะถูกสร้างที่โฟลเดอร์นี้
+          options: 'username=nattapat2871&show_icons=true&count_private=true&theme=default'
+          path: 'generated/stats-light.svg'
 
-      - name: Generate Top Langs Image
+      # 2. สร้าง Stats (โหมดมืด - GitHub Dark)
+      - name: Generate Stats (Dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: stats
+          options: 'username=nattapat2871&show_icons=true&count_private=true&theme=github_dark'
+          path: 'generated/stats-dark.svg'
+
+      # 3. สร้าง Top Langs (โหมดสว่าง - Default)
+      - name: Generate Top Langs (Light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           card: top-langs
-          options: 'username=nattapat2871&layout=compact&theme=radical'
-          path: 'generated/top-langs.svg'
+          options: 'username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=default'
+          path: 'generated/top-langs-light.svg'
 
+      # 4. สร้าง Top Langs (โหมดมืด - GitHub Dark)
+      - name: Generate Top Langs (Dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: 'username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=github_dark'
+          path: 'generated/top-langs-dark.svg'
+
+      # 5. บันทึกไฟล์ลง Git
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add generated/
-          git commit -m "Update stats" || exit 0
+          git commit -m "Update stats images" || exit 0
           git push
