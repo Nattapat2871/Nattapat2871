@@ -64,32 +64,32 @@ src="https://img.shields.io/github/followers/nattapat2871?logo=github&style=for-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=github_dark"
+      srcset="./generated/top-langs-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=default"
+      srcset="./generated/top-langs-light.svg"
     />
     <img
       alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat2871&langs_count=10&locale=en&custom_title=Top%20Languages&theme=default"
+      src="./generated/top-langs-light.svg"
     />
   </picture>
 </a>
-&nbsp &nbsp &nbsp
+&nbsp;&nbsp;&nbsp;
 <a href="http://www.github.com/nattapat2871">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=github_dark"
+      srcset="./generated/stats-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=default"
+      srcset="./generated/stats-light.svg"
     />
     <img
       alt="nattapat2871's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=nattapat2871&show_icons=true&hide=&count_private=true&theme=default"
+      src="./generated/stats-light.svg"
     />
   </picture>
 </a>
