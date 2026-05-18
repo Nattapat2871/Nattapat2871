@@ -2,7 +2,7 @@
 HELLO WORLD, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nattapat Jitsom
 ====================================================================================================================================
 
-Junior student developer
+B.Ed.Tech Full-Stack junior Student Dev.
 ------------------------
 
 I've been really into computers ever since I was young. I went from being a kid hooked on games to wanting to actually develop things – like apps, games, and more.
